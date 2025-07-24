@@ -1,3 +1,5 @@
+package Proyecto;
+
 public class Persona {
     public String nombre;
 
