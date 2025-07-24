@@ -9,10 +9,6 @@ public class Main {
 
         System.out.println("Commit 3");
 
-        Persona p1= new Persona("Juanito");
-
-
-
 
     }
 
